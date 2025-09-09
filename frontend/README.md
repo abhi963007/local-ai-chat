@@ -1,6 +1,6 @@
-# Voice Call UI
+# AI Voice Assistant
 
-A modern, ChatGPT Voice-style interface built with React, Tailwind CSS, and Framer Motion.
+A modern, intelligent voice assistant interface built with React, Tailwind CSS, and Framer Motion. Features real-time speech recognition, natural language processing, and text-to-speech capabilities.
 
 ## Features
 
